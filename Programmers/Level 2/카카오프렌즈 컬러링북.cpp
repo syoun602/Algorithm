@@ -7,8 +7,8 @@ using namespace std;
 int number_of_area = 0;
 int max_size_of_one_area = 0; 
 vector<vector<int>> pic;
-int visited[100][100];
-int dir[4][2] = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+int visited[100][100]
+;int dir[4][2] = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
 
 void bfs(int x, int y, int m, int n) {
 
