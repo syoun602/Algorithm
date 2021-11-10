@@ -252,5 +252,5 @@
 
 **11/10**
 - 프로그래머스
-`Level 2` [2개 이하로 다른 비트]( Programmers/Level 2/2개 이하로 다른비트.cpp)  
+`Level 2` [2개 이하로 다른 비트](/Programmers/Level%202/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%EB%B9%84%ED%8A%B8.cpp)  
 
