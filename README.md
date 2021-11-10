@@ -249,3 +249,8 @@
 **11/09**  
 - 프로그래머스  
   `Level 2` [올바른 괄호](Programmers/LLevel%202/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.cpp)  
+
+**11/10**
+- 프로그래머스
+`Level 2` [2개 이하로 다른 비트]( Programmers/Level 2/2개 이하로 다른비트.cpp)  
+
